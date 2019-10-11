@@ -10,7 +10,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using VidiFlex.Models;
 
-namespace VidiFlex.Controllers
+namespace VidiFlex.Models
 {
     [Authorize]
     public class AccountController : Controller

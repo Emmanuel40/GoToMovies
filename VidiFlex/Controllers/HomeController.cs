@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace VidiFlex.Controllers
+namespace VidiFlex.Models
 {
     public class HomeController : Controller
     {
