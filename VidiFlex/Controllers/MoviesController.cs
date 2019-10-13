@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using VidiFlex.ViewModel;
+using VidiFlex.ViewModels;
 
 namespace VidiFlex.Models
 {
@@ -15,8 +15,8 @@ namespace VidiFlex.Models
             var movie = new Movie() {Name = "Shrek!"};
 
             var customer = new List<Customer>
-            { new Customer{Name = "Customer 1" },
-              new Customer{Name = "Customer 2" }
+            { new Customer{Name = "John Smith" },
+              new Customer{Name = "Mary Williams" }
             };
 
             var viewModel = new RandomMovieViewModel
