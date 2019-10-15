@@ -15,7 +15,7 @@ namespace VidiFlex.Controllers
             { new Customer{Name = "John Smith" },
               new Customer{Name = "Mary Williams" }
             };
-            return View(customer);
+            return View(customers);
         }
     }
 }
