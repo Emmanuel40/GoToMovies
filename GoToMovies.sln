@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoToMovies", "GoToMovies\GoToMovies.csproj", "{6B295CC4-028E-419A-866C-B74FA45AAE29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Testing|Any CPU = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B295CC4-028E-419A-866C-B74FA45AAE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B295CC4-028E-419A-866C-B74FA45AAE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B295CC4-028E-419A-866C-B74FA45AAE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B295CC4-028E-419A-866C-B74FA45AAE29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B295CC4-028E-419A-866C-B74FA45AAE29}.Testing|Any CPU.ActiveCfg = Testing|Any CPU
+		{6B295CC4-028E-419A-866C-B74FA45AAE29}.Testing|Any CPU.Build.0 = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C4BDB1-69EB-45C2-B25C-199658B31BB6}
+	EndGlobalSection
+EndGlobal
